@@ -4,7 +4,7 @@
 </style>
 <html>
 <head>
-    <title>My team</title>
+    <title>Taxi service</title>
 </head>
 <body>
 <form method="post" id="redirect"></form>
